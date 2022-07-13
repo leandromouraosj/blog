@@ -2,7 +2,7 @@
 layout: post
 title:  '"Conhecendo Jesus" - CAP 1'
 date:   2022-07-11 13:27:32 -0300
-categories: jekyll update
+categories: [Conhecendo Jesus, desafio]
 ---
 
 Primeiro vídeo da série Conhecendo Jesus.
@@ -14,5 +14,4 @@ Forte abraço
 
 
 Leandro Mourão
-
-Seguidor de Jesus
+<p>Seguidor de Jesus</p>
