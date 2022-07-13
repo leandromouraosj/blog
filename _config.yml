@@ -20,9 +20,9 @@
 
 title: OFOCOEHOUTRO
 # email: contato@leandromouraosj.com.br
-description: >- # this means to ignore newlines until "baseurl:"
-  Nesse espaço compartilho minhas experiências e aprendizados na minha jornada com Jesus.
-  Sou um Seguir de Jesus (SJ), e convido você a também trilhar esse caminho de fé!
+# description: >- # this means to ignore newlines until "baseurl:"
+#   Nesse espaço compartilho minhas experiências e aprendizados na minha jornada com Jesus.
+#   Sou um Seguidor de Jesus (SJ), e convido você a também trilhar esse caminho de fé!
 baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "https://leandromouraosj.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 
