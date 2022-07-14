@@ -12,6 +12,5 @@ Desafio 30 dias! [Link do grupo do whatsapp:](https://chat.whatsapp.com/Kf5ACD6Y
 
 Forte abraço
 
-
 Leandro Mourão
-<p>Seguidor de Jesus</p>
+<h5>Seguidor de Jesus</h5>
