@@ -24,7 +24,7 @@ title: Leandro Mourão
 #   Nesse espaço compartilho minhas experiências e aprendizados na minha jornada com Jesus.
 #   Sou um Seguidor de Jesus (SJ), e convido você a também trilhar esse caminho de fé!
 baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://leandromouraosj.com.br" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://leandromourao.com.br" # the base hostname & protocol for your site, e.g. http://example.com
 
 # github_username:  leandromouraosj
 facebook_username: leandromouraosj
@@ -37,7 +37,7 @@ linkedin_username: leandromourao
 # Author is the default for posts, the Atom feed, and is used in the footer.
 author: Leandro Mourão
 
-copyright: "leandromouraosj"
+copyright: "leandromourao"
 # title-logo: /images/title-logo.png
 
 # Build settings
